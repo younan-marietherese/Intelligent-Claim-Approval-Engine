@@ -4,7 +4,7 @@ This project is an **AI-powered API** that predicts whether an insurance claim s
 It was developed, containerized, and deployed end-to-end:
 
 ## Notebook Phase
-- – Data preprocessing, feature engineering, XGBoost model training & evaluation  
+-  Data preprocessing, feature engineering, XGBoost model training & evaluation  
 - **Flask API** - REST API + web form for predictions  
 - **Docker** - Containerized with Gunicorn for production readiness  
 - **Deployment** - Live on Hugging Face Spaces  
