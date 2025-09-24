@@ -88,6 +88,7 @@ Decision: Rejected (0)
 ```json
 docker build -t claims-api .
 docker run --name claims-api -d -p 7860:7860 claims-api
+
 ```
 ### 6. Then open http://127.0.0.1:7860/web
 
