@@ -76,13 +76,17 @@ Decision: Approved (1)
 ```json
 {"CLAIMED_AMOUNT":1000,"SYSTEM_CLAIMED_AMOUNT":200,"PATIENT_SHARE":900,
  "BILLED_TAX":50,"ACCEPTED_TAX":5,"GROSS_CLAIMED_AMOUNT":1100,
- "COUNTRY":"LEB","INSURER":"XYZ","CLASS":"C","COVER":"BASIC",
+ "COUNTRY":"LEB","INSURER":"ARP","CLASS":"C","COVER":"BASIC",
  "CURRENCY":"USD","ADM_TYPE":"INPATIENT","SERVICE":"SURGERY",
  "PRE-AUTHORIZED":"NO","PROD":"GEN",
  "DIAGNOSIS_DESCRIPTION":"complex surgery, not covered",
  "SERVICE_DESC":"major operation"}
 ```
 Decision: Rejected (0)
+
+### Screenshots
+![Alt text](screenshots/testttt1.png)
+![Alt text](screenshots/testttt22.png)
 
 ### 5. Run Locally with Docker:
 ```json
